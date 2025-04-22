@@ -1,0 +1,15 @@
+venv
+.git
+db.sqlite3
+.idea/
+.vscode/
+.vs/
+.project
+.pydevproject
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+*.log
+*.tmp
